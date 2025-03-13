@@ -5,3 +5,6 @@
 [submodule "niarules"]
 	path = niarules
 	url = https://github.com/firefly-cpp/niarules
+[submodule "tcxr"]
+	path = tcxr
+	url = https://github.com/firefly-cpp/tcxr
